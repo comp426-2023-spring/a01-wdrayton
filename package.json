@@ -1,0 +1,31 @@
+{
+  "name": "a01-webserver",
+  "version": "1.0.0",
+  "description": "webserver for assignment a01",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2023-spring/a01-wdrayton.git"
+  },
+  "keywords": [
+    "web",
+    "server",
+    "port",
+    "node",
+    "args",
+    "fs",
+    "http"
+  ],
+  "author": "wdrayton",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/comp426-2023-spring/a01-wdrayton/issues"
+  },
+  "homepage": "https://github.com/comp426-2023-spring/a01-wdrayton#readme",
+  "dependencies": {
+    "minimist": "^1.2.7"
+  }
+}
