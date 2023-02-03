@@ -4,7 +4,8 @@
   "description": "webserver for assignment a01",
   "main": "index.js",
   "scripts": {
-    "test": "node server.js --port=5555"
+    "test": "node server.js --port=5555",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
